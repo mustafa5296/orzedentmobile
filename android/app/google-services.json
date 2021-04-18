@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388218757719",
+    "project_id": "orzedent",
+    "storage_bucket": "orzedent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388218757719:android:87cb15d4f41421f01db912",
+        "android_client_info": {
+          "package_name": "com.example.orzedent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388218757719-2b415ed2dt29dj7knsrv7ck2e1tnb7d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXfkxDORtMGeC74uQGnrrzwDAMKxouqXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388218757719-2b415ed2dt29dj7knsrv7ck2e1tnb7d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
